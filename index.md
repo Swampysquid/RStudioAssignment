@@ -31,52 +31,52 @@ The reason I decided to do a project on the leading causes of death was because 
 
 I came up with a total of 16 visualizations:
 
-![Figure1](Figure1.PNG)
+![Figure1](Figure1.png)
 
 
-![Figure2](Figure2.PNG)
+![Figure2](Figure2.png)
 
 
-![Figure3](Figure3.PNG)
+![Figure3](Figure3.png)
 
 
-![Figure4](Figure4.PNG)
+![Figure4](Figure4.png)
 
 
-![Figure5](Figure5.PNG)
+![Figure5](Figure5.png)
 
 
-![Figure6](Figure6.PNG)
+![Figure6](Figure6.png)
 
 
-![Figure7](Figure7.PNG)
+![Figure7](Figure7.png)
 
 
-![Figure8](Figure8.PNG)
+![Figure8](Figure8.png)
 
 
-![Figure9](Figure9.PNG)
+![Figure9](Figure9.png)
 
 
-![Figure10](Figure10.PNG)
+![Figure10](Figure10.png)
 
 
-![Figure11](Figure11.PNG)
+![Figure11](Figure11.png)
 
 
-![Figure12](Figure12.PNG)
+![Figure12](Figure12.png)
 
 
-![Figure13](Figure13.PNG)
+![Figure13](Figure13.png)
 
 
-![Figure14](Figure14.PNG)
+![Figure14](Figure14.png)
 
 
-![Figure15](Figure15.PNG)
+![Figure15](Figure15.png)
 
 
-![Figure16](Figure16.PNG)
+![Figure16](Figure16.png)
 
 Images should be large and easy to see and interperate. 
 Captions underneath should be 20-70 words long.
