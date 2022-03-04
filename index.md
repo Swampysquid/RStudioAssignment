@@ -32,28 +32,28 @@ The reason I decided to do a project on the leading causes of death was because 
 I came up with a total of 16 visualizations:
 
 ![Figure1](Figure1.png)
-
+Figure 1 is the first visualization I created. I wanted to get the bare minimum which the rest of my visualizations would branch from: the 2020 leading causes of death overall. As I expected heart disease was number one. Seeing COVID as number 3 was also pretty interesting for 2020, it made me wonder where COVID would be in 2021.
 
 ![Figure2](Figure2.png)
-
+Figure 2 was my first separation into a subgroup, and I chose to use the age group 65+. As I kindof expected, they followed the trend which figure 1 created, possessing 4 of the 5 leading causes of death overall (and the first 3 being in order too).
 
 ![Figure3](Figure3.png)
-
+Figure 3 had me explore how heart disease squared up in all age groups individually. From figure 2, I determined that ages 65+ had a lot of heart disease deaths, which would contribute greatly to the total number seen in figure 1. This was affirmed by figure 3, where I had all my heart disease graphs side-by-side. FIgure 3 made it very evident that heart disease had way more magnitude in the older ages, with ages below 54 not having nearly the same number of deaths as 65+, but this is pretty expected since everyone 65+ has to die, whereas people in groups like 45-54 can move past that age bin.
 
 ![Figure4](Figure4.png)
-
+In figure 4, I decided to finally see what the top killers were for each individual age group. I discovered that despite heart disease being the top killer overall, only one age demographic had heart disease as their top killer. Instead, "unintentional injury" was the leader for ages 1-45, and by proxy, drug overdose. This affirmed what I had read in the social media post, and got me thinking about how breaking the demographics into further bins, I would likely see even more unique results whcih would have otherwise been overshadowed by the rest of the data.
 
 ![Figure5](Figure5.png)
-
+In figure 5, I decided to look at the data pertaining to women. They shared a similar bar chart to the overall cause of death in figure 1, but instead of accidental injury, the women's chart had "Alzheimer's Disease" as the 4th top cause of death.
 
 ![Figure6](Figure6.png)
-
+In figure 6, I once again decided to view the results in age bins, but this time just for women. It was very similar to the overall age results from figure 4.
 
 ![Figure7](Figure7.png)
-
+In figure 7, I decided to view the data pertaining only to men. They shared the top 4 as depicted in figure 1, but had Chronic Respiratory Disease as a fifth leading cause of death.
 
 ![Figure8](Figure8.png)
-
+In figure 8, I broke down the men by age. I discovered that heart disease was the top cause of death from ages 45-64, which differed from how the women had malignant neoplasms, and by extension differed from the overall causes of death by age in figure 4, as those were also malignant neoplasms.
 
 ![Figure9](Figure9.png)
 
