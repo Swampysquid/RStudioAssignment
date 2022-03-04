@@ -1,5 +1,5 @@
 # RStudio Visualizations of the CDC's Death Data for 2020
-### Eythan Jenkins
+### By: Eythan Jenkins
 
 ## Introduction
 
