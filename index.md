@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# RStudio Visualizations of the CDC's Death Data for 2020
+### Eythan Jenkins
 
-You can use the [editor on GitHub](https://github.com/Swampysquid/RStudioAssignment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- What is the core discovery you made, the most interesting thing that you can describe with this data? 
+- What will your supporting arguments be for your discovery?
 
-### Markdown
+## Dataset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Describe your data set, including a link to the data. 
+- What is this data about?
+- Who collected or produced this dataset? Why?
+- Why are you interested in it?
 
-```markdown
-Syntax highlighted code block
+## Initial Questions
 
-# Header 1
-## Header 2
-### Header 3
+- What initially drew you to this data? 
+- What were you currious about? 
 
-- Bulleted
-- List
+    QUESTION 1
+    QUESTION 2
+    QUESTION 3
+  
+- What questions came up as you worked with the data? 
+- Was there anything that surprised you about the data?
+- Was it easy to work with or did you have to clean or "wrangle" the data?
 
-1. Numbered
-2. List
+## Discoveries & Insights
 
-**Bold** and _Italic_ and `Code` text
+Images should be large and easy to see and interperate. 
+Captions underneath should be 20-70 words long.
 
-[Link](url) and ![Image](src)
-```
+## Conclusion
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Final summary of the data and what you found during this project.
 
-### Jekyll Themes
+## Sources
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Swampysquid/RStudioAssignment/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Did any sources help you understand your data better? Make sure to cite them.
